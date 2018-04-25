@@ -33,16 +33,6 @@
       "familyId": 3
     },
     {
-      "sku": "sd",
-      "name": "dsdsd",
-      "description": "sdsd",
-      "buyPrice": "1201",
-      "sellPrice": "121",
-      "unit": "df",
-      "quantity": "1000",
-      "id": 5
-    },
-    {
       "name": "Product X",
       "cost": "100",
       "quantity": "1000",
